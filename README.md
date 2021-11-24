@@ -1,1 +1,1 @@
-Simple snake build using C++. Movement with WASD
+# Simple snake built using C++. Movement with WASD
